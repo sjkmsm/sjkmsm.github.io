@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.44c95007.css",
-    "main.js": "/static/js/main.aaaf0bf4.js",
+    "main.css": "/static/css/main.e07591ec.css",
+    "main.js": "/static/js/main.be0e4c19.js",
     "static/js/787.7e05da8e.chunk.js": "/static/js/787.7e05da8e.chunk.js",
+    "static/media/adventcalender.png": "/static/media/adventcalender.b51d02a9ceb497f1b156.png",
     "static/media/me.jpeg": "/static/media/me.847ef4d9fffb4f01ae42.jpeg",
     "index.html": "/index.html",
-    "main.44c95007.css.map": "/static/css/main.44c95007.css.map",
-    "main.aaaf0bf4.js.map": "/static/js/main.aaaf0bf4.js.map",
+    "main.e07591ec.css.map": "/static/css/main.e07591ec.css.map",
+    "main.be0e4c19.js.map": "/static/js/main.be0e4c19.js.map",
     "787.7e05da8e.chunk.js.map": "/static/js/787.7e05da8e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.44c95007.css",
-    "static/js/main.aaaf0bf4.js"
+    "static/css/main.e07591ec.css",
+    "static/js/main.be0e4c19.js"
   ]
 }
